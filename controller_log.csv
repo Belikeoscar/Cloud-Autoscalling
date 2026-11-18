@@ -1,0 +1,9 @@
+time_utc,rate,cpu,replicas,pred_rate_60s,raw_desired,final_desired,action,note
+2026-11-11T18:19:25.692819+00:00,0.0,0.00146,1,,,,warmup,rate_missing_as_0
+2026-11-11T18:19:42.215618+00:00,0.0,0.00139,1,,,,warmup,rate_missing_as_0
+2026-11-11T18:19:56.373365+00:00,0.0,0.00123,1,,,,warmup,rate_missing_as_0
+2026-11-11T18:20:11.156824+00:00,0.0,0.00135,1,0.0,0,1,hold,rate_missing_as_0 idle_guard
+2026-11-11T18:20:25.768566+00:00,0.0,0.00163,1,0.0,0,1,hold,rate_missing_as_0 idle_guard
+2026-11-11T18:20:40.587974+00:00,0.0,0.00257,1,0.0,0,1,hold,rate_missing_as_0 idle_guard
+2026-11-11T18:20:55.684228+00:00,0.0,0.00367,1,0.0,0,1,hold,rate_missing_as_0 idle_guard
+2026-11-11T18:21:10.621038+00:00,0.0,0.00241,1,0.0,0,1,hold,rate_missing_as_0 idle_guard
